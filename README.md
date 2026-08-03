@@ -249,19 +249,7 @@ Interactive quiz web application.
 # 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/madhumitharg2424/madhumitharg2424/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=madhumitharg2424&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-
+  <img src="https://raw.githubusercontent.com/madhumitharg2424/madhumitharg2424/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
