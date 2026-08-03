@@ -232,25 +232,7 @@ Interactive quiz web application.
 
 ---
 
-# 📊 GitHub Analytics
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=madhumitharg2424&show_icons=true&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-# 🧠 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhumitharg2424&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
