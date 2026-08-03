@@ -15,8 +15,10 @@
 - 🎓 Student with a strong interest in Software Engineering
 - 💻 Developing applications using **Java, JavaScript, TypeScript and Python**
 - 🌐 Interested in **Full Stack Web Development**
+- ☕ Building backend applications using **Java and Spring technologies**
 - 🤖 Exploring **Artificial Intelligence and AI-powered applications**
 - 🧩 Practicing **Data Structures & Algorithms**
+- 🔐 Interested in secure application development and authentication
 - 🛠️ Interested in building practical and real-world applications
 - 🎨 Passionate about creating clean and user-friendly interfaces
 - 🚀 Focused on improving coding, problem-solving and software engineering skills
@@ -25,7 +27,7 @@
 
 # ⚒️ Technical Expertise
 
-## 🚀 Programming Languages
+## 💻 Programming Languages
 
 <p align="left">
 
@@ -41,17 +43,17 @@
 
 ---
 
-## 🌐 Web Development
+## 🚀 Frameworks & Libraries
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
 
 </p>
 
@@ -59,14 +61,18 @@
 
 ## 🧠 Core Concepts
 
-- 📚 Data Structures & Algorithms
-- 🧩 Object-Oriented Programming
-- 🗄️ Database Management
-- 🧠 Problem Solving
-- ⚙️ Software Engineering
+- ☕ Object-Oriented Programming
+- 🧩 Data Structures & Algorithms
 - 🔗 REST APIs
-- 🌐 Full Stack Development
+- 🌱 Spring MVC
+- 🌱 Spring Data JPA
+- 🗄️ Hibernate
+- 🔐 JWT Authentication
+- 🗃️ Database Management System
+- ⚙️ Software Engineering
 - 🔧 Git & GitHub
+- 🧠 Problem Solving
+- 🌐 Full Stack Development
 
 ---
 
@@ -89,6 +95,8 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 
 </p>
 
@@ -249,7 +257,9 @@ Interactive quiz web application.
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/madhumitharg2424/madhumitharg2424/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+<img src="https://raw.githubusercontent.com/madhumitharg2424/madhumitharg2424/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
 </p>
 
 ---
