@@ -29,13 +29,13 @@
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 </p>
 
@@ -45,13 +45,13 @@
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
 </p>
 
@@ -59,14 +59,14 @@
 
 ## 🧠 Core Concepts
 
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Database Management
-- Problem Solving
-- Software Engineering
-- REST APIs
-- Full Stack Development
-- Git & GitHub
+- 📚 Data Structures & Algorithms
+- 🧩 Object-Oriented Programming
+- 🗄️ Database Management
+- 🧠 Problem Solving
+- ⚙️ Software Engineering
+- 🔗 REST APIs
+- 🌐 Full Stack Development
+- 🔧 Git & GitHub
 
 ---
 
@@ -74,7 +74,7 @@
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 </p>
 
@@ -84,11 +84,11 @@
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
 </p>
 
@@ -102,6 +102,8 @@ Java-based backend project for an AI-powered interview platform.
 
 **Technology:** Java
 
+🔗 [View Repository](https://github.com/madhumitharg2424/ai-interview-platform-backend)
+
 ---
 
 ## 📄 AI Resume Analyser
@@ -109,6 +111,8 @@ Java-based backend project for an AI-powered interview platform.
 AI-powered application designed for resume analysis.
 
 **Technology:** TypeScript
+
+🔗 [View Repository](https://github.com/madhumitharg2424/Ai-resumeAnalyser)
 
 ---
 
@@ -118,6 +122,8 @@ AI-focused project related to ethical and intelligent hiring.
 
 **Technology:** TypeScript
 
+🔒 Private Repository
+
 ---
 
 ## 💼 EHub Frontend
@@ -125,6 +131,8 @@ AI-focused project related to ethical and intelligent hiring.
 Frontend web application focused on creating an interactive user experience.
 
 **Technology:** JavaScript
+
+🔗 [View Repository](https://github.com/madhumitharg2424/ehub-front)
 
 ---
 
@@ -134,6 +142,8 @@ Java-based application for managing events and related operations.
 
 **Technology:** Java
 
+🔗 [View Repository](https://github.com/madhumitharg2424/event-management-system)
+
 ---
 
 ## 🌸 Pooja Mehndi
@@ -141,6 +151,8 @@ Java-based application for managing events and related operations.
 A web application created for a mehndi-related business/project.
 
 **Technology:** TypeScript
+
+🔗 [View Repository](https://github.com/madhumitharg2424/poojamehandi)
 
 ---
 
@@ -150,6 +162,8 @@ E-commerce web application.
 
 **Technology:** JavaScript
 
+🔗 [View Repository](https://github.com/madhumitharg2424/ecommerce-)
+
 ---
 
 ## 🎮 PlayStation Analysis
@@ -157,6 +171,8 @@ E-commerce web application.
 Data/application project related to PlayStation analysis.
 
 **Technology:** TypeScript
+
+🔗 [View Repository](https://github.com/madhumitharg2424/playstationanalysis)
 
 ---
 
@@ -166,6 +182,8 @@ AI and drone-oriented project focused on rescue applications.
 
 **Technology:** Python / AI
 
+🔗 [View Repository](https://github.com/madhumitharg2424/ResQDroneAI)
+
 ---
 
 ## 🌦️ Climate
@@ -173,6 +191,8 @@ AI and drone-oriented project focused on rescue applications.
 Python-based climate/weather project.
 
 **Technology:** Python
+
+🔗 [View Repository](https://github.com/madhumitharg2424/climate)
 
 ---
 
@@ -182,13 +202,15 @@ Interactive quiz web application.
 
 **Technology:** JavaScript
 
+🔗 [View Repository](https://github.com/madhumitharg2424/quiz_Web)
+
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=madhumitharg2424&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=madhumitharg2424&show_icons=true&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -198,7 +220,7 @@ Interactive quiz web application.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhumitharg2424&layout=compact&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhumitharg2424&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -208,7 +230,7 @@ Interactive quiz web application.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=madhumitharg2424&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=madhumitharg2424&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -218,7 +240,7 @@ Interactive quiz web application.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhumitharg2424&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhumitharg2424&theme=tokyo-night&hide_border=true&area=true" />
 
 </p>
 
@@ -228,7 +250,7 @@ Interactive quiz web application.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/madhumitharg2424/madhumitharg2424/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/madhumitharg2424/madhumitharg2424/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </p>
 
@@ -238,7 +260,7 @@ Interactive quiz web application.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=madhumitharg2424&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=madhumitharg2424&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 
 </p>
 
@@ -250,19 +272,11 @@ Interactive quiz web application.
 
 <a href="https://github.com/madhumitharg2424">
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 </a>
 
 </p>
-
-<!--
-Add your LinkedIn here:
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
--->
 
 ---
 
@@ -270,7 +284,7 @@ Add your LinkedIn here:
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=madhumitharg2424&label=Profile%20Views&color=blue&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=madhumitharg2424&label=Profile%20Views&color=blue&style=for-the-badge" />
 
 </p>
 
